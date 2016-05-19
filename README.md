@@ -38,6 +38,9 @@
 ### 圖片 input picture  
 語法:![Alt text]/(http://full/path/to/img.jpg "Optional title") (同樣中間的'/'拿掉)  
 舉例:  
+![Alt text](https://github.com/kangfizz/Read.md-edit-Toturial/blob/master/Pic1.png "pic1")  
+  
+  
   
 ####持續更新中... To be continue...  
-![Alt text]/(https://github.com/kangfizz/Read.md-edit-Toturial/blob/master/Pic1.png "pic1")
+
