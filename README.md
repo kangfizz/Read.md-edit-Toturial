@@ -40,7 +40,10 @@
 舉例:  
 ![Alt text](https://github.com/kangfizz/Read.md-edit-Toturial/blob/master/Pic1.png "pic1")  
   
-  
+### 上底色 print background   
+語法:<code><"code"><"/code"></code> (把裡面那個""拿掉)  
+舉例:  
+<code>printf("hello world!!");</code>  
   
 ####持續更新中... To be continue...  
 
