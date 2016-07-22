@@ -11,6 +11,7 @@
 ###表格 make a list :  
 語法:<code> | </code>(就排直的就可以),這個還要再測試  
 舉例:  
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
