@@ -10,7 +10,7 @@
 
 ###表格 make a list :  
 語法:<code> | </code>(就排直的就可以),第二排就是設定至中至右至左
-舉例:  (冒號:代表至右還是左,如果兩邊都有就是至中)
+舉例:  (冒號:代表至右還是左,如果兩邊都有就是至中)  
 | Tables        | Are           | Cool  |  
 | col 3 is      | right-aligned | $1600 |  
 | col 2 is      | centered      |   $12 |  
