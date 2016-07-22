@@ -11,12 +11,11 @@
 ###表格 make a list :  
 語法:<code> | </code>(就排直的就可以),這個還要再測試  
 舉例:  
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-| test | 測試        |  $3333 |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ###超連結 url :
 語法:<code> [連結名]/(網址) </code>(把中間那個'/'去掉)  
