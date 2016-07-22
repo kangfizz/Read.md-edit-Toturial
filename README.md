@@ -50,6 +50,18 @@
 語法:<code><"code"><"/code"></code> (把裡面那個""拿掉)  
 舉例:  
 <code>printf("hello world!!");</code>  
+
+### 多行code底色設定 print mutiple code background  
+語法:<code>```</code> (頭尾都要加)  
+舉例:
+```
+import counter
+import jieba
+a=12
+b=8
+print(a+b)
+
+```
   
 ####持續更新中... To be continue...  
 
